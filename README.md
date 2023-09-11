@@ -1,16 +1,27 @@
-### Hi there 👋
+# Opa! Tudo bem com você?  :grin:
 
-<!--
-**GiulioSouza/GiulioSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Giulio, sou desenvolvedor desde 2021 e sigo codando desde então. Apaixonado por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens que utilizo: :desktop_computer:
+- Javascript
+- NodeJs
+- HTML5
+- CSS3
+
+---
+
+  ## Linguagens que pretendo utilizar: :hourglass:
+- Java
+- C#
+- Ruby
+
+---
+
+ ## Atualmente...
+- Estou estudando na Cubos Academy e trabalhando em projetos pessoais (que você pode encontrar dentre meus repositórios), dando ênfase para Javascript. :open_book:
+
+## Redes sociais
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-de-souza-b67487277/) 
+

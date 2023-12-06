@@ -4,18 +4,20 @@ Meu nome é Giulio, sou desenvolvedor desde 2021 e sigo codando desde então. **
 
 ---
 
-## Linguagens que utilizo: :desktop_computer:
+## Linguagens que utilizo: 
+- :computer:
 - NodeJs
 - C#
 - TypeScript
 - HTML5
 - CSS3
+- :computer:
 
 ---
 
  ## Atualmente...
 - Recém formado na Cubos Academy, estou buscando aprofundar meus conhecimentos em backend e desenvolvimento em si, com conceitos como arquitetura de sistemas, algoritmos e testes. :open_book:
-- Interessadissimo por tipagem, estou me aventurando pelo TypeScript e C#
+- Interessadissimo por tipagem, estou me aventurando pelo TypeScript e C#.
 - Sempre aberto para aprender tecnologias novas e ingressar em novos projetos.
 
 <p align="center">

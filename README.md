@@ -1,6 +1,6 @@
 # Opa! Tudo bem com você?  :grin:
 
-Meu nome é Giulio, sou desenvolvedor desde 2021 e sigo codando desde então. **Apaixonado** por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
+Meu nome é Giulio, 21 anos com espírito de 42. Comecei a engatinhar no desenvolvimento de software em 2021, me formei em 2023 e dei uma pausa por conta de mudanças em minha vida. Voltando com força total e duas opções: Fazer dar certo e fazer dar mais que certo! **Apaixonado** por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
 
 ---
 
@@ -9,15 +9,14 @@ Meu nome é Giulio, sou desenvolvedor desde 2021 e sigo codando desde então. **
 - NodeJs
 - C#
 - TypeScript
-- HTML5
-- CSS3
+- React
 - :computer:
 
 ---
 
  ## Atualmente...
-- Recém formado na Cubos Academy, estou buscando aprofundar meus conhecimentos em backend e desenvolvimento em si, com conceitos como arquitetura de sistemas, algoritmos e testes. :open_book:
-- Interessadissimo por tipagem, estou me aventurando pelo TypeScript e C#.
+- Formado na Cubos Academy(12/2023), busco dar meu próximo passo cursando Engenharia de Software. :open_book:
+- Deixando minha curiosidade fluir através de React, C# e meu velho amigo Node.
 - Sempre aberto para aprender tecnologias novas e ingressar em novos projetos.
 
 <p align="center">
@@ -29,7 +28,7 @@ Meu nome é Giulio, sou desenvolvedor desde 2021 e sigo codando desde então. **
 
 ---
 
-"Quando você quer alguma coisa, todo o universo conspira para que você realize seu desejo."... O alquimista por Paulo Coelho
+"Quando você quer alguma coisa, todo o universo conspira para que você realize seu desejo."... O alquimista, Paulo Coelho
 
 ---
 

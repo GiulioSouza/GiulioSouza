@@ -1,6 +1,6 @@
 # Opa! Tudo bem com você?  :grin:
 
-Meu nome é Giulio, 21 anos com espírito de 42. Comecei a engatinhar no desenvolvimento de software em 2021, me formei em 2023 e dei uma pausa por conta de mudanças em minha vida. Voltando com força total e duas opções: Fazer dar certo e fazer dar mais que certo! **Apaixonado** por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
+Meu nome é Giulio, 21 anos com espírito de 42. Comecei no desenvolvimento de software em 2021, 2022 me familiarizei e engatinhei,no início de 2023 concluí um ensino técnico de Desenvolvedor back-end, e agora em 2025, mais especifícamente dia 14/02 comecei minha graduação em ciência da computação na UNIP. **Apaixonado** por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
 
 ---
 
@@ -13,11 +13,6 @@ Meu nome é Giulio, 21 anos com espírito de 42. Comecei a engatinhar no desenvo
 - :computer:
 
 ---
-
- ## Atualmente...
-- Formado na Cubos Academy(12/2023), busco dar meu próximo passo cursando Engenharia de Software. :open_book:
-- Deixando minha curiosidade fluir através de React, C# e meu velho amigo Node.
-- Sempre aberto para aprender tecnologias novas e ingressar em novos projetos.
 
 <p align="center">
   <img style="text-align:center" src="https://media.tenor.com/jwnH8bI9f9kAAAAC/lonely-alone.gif" alt="Typing gif" height="312" width="312" />

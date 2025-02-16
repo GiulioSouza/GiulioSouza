@@ -1,6 +1,6 @@
 # Opa! Tudo bem com você?  :grin:
 
-Meu nome é Giulio, 22 anos com espírito de 42. Comecei no desenvolvimento de software em 2021, 2022 me familiarizei e engatinhei,no início de 2023 concluí um ensino técnico de Desenvolvedor back-end, e agora em 2025, mais especifícamente dia 14/02 comecei minha graduação em ciência da computação na UNIP. **Apaixonado** por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
+Meu nome é Giulio, 22 anos com espírito de 42. Comecei no desenvolvimento de software em 2021, 2022 me familiarizei e engatinhei,no início de 2023 concluí um ensino técnico de Desenvolvedor back-end, e agora em 2025, mais especifícamente dia 13/02 comecei minha graduação em ciência da computação na UNIP. **Apaixonado** por o que a tecnologia pode nos proporcionar e por o que conseguiremos fazer com ela! :earth_africa: :rocket:
 
 ---
 

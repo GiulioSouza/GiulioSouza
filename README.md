@@ -9,7 +9,7 @@ Meu nome é Giulio, 22 anos com espírito de 42. Comecei no desenvolvimento de s
 - NodeJs
 - C#
 - TypeScript
-- React
+- Java
 - :computer:
 
 ---
